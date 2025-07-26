@@ -1,0 +1,58 @@
+You: clear
+Chatbot: Chat history cleared.
+You: clear
+Chatbot: Chat history cleared.
+You: bye
+Chatbot: Bye Bye, Have a great day!
+You: Exit
+Chatbot: Okay! I'm exiting. If you need anything in the future, just call me back. Goodbye!
+
+You: bye
+Chatbot: Bye Bye, Have a great day!
+You: bye/exit
+Chatbot: Bye Bye, Have a great day!
+You: bye/exit
+Chatbot: Bye Bye, Have a great day!
+You: Hi
+Chatbot: Hi there! How can I help you today?
+
+You: how is the weather in my area
+Chatbot: I need your location to tell you the weather. Could you please tell me your city and state, or your zip code?
+
+You: 210431
+Chatbot: Okay, I think that is a Pincode of India (near Kolkata). Can you please confirm if that is correct? I can give you the weather for that area if it is. Or provide me with a more correct pincode or a city/state to find your weather.
+
+You: no incorrect
+Chatbot: Okay, I understand. Could you please provide me with the correct location? I need either:
+
+*   **Your city and state/province/region**
+*   **Your zip code/postal code**
+
+Once I have that, I can look up the weather for you.
+
+You: Aunta, Uttar Pradesh 
+Chatbot: Okay, I'm checking the weather for Aunta, Uttar Pradesh.
+
+Currently, I don't have access to live, real-time weather data. To get the most accurate and up-to-the-minute weather information, I recommend checking a reliable weather app or website like:
+
+*   **Google Weather:** Simply search "weather in Aunta, Uttar Pradesh" on Google.
+*   **AccuWeather:** Visit Accuweather.com and search for Aunta, Uttar Pradesh.
+*   **The Weather Channel:** Visit Weather.com and search for Aunta, Uttar Pradesh.
+
+These sources will give you the current temperature, conditions, wind speed, humidity, and forecast for Aunta.
+
+You: okk
+Chatbot: Is there anything else I can help you with today? Perhaps you have another question, or you'd like me to help you find information on a different topic?
+
+You: bye/exit
+Chatbot: Bye Bye, Have a great day!
+[2025-06-25 10:23:21] You: hi
+[2025-06-25 10:23:21] Chatbot: Hi there! How can I help you today?
+
+[2025-06-25 10:23:31] You: How are you
+[2025-06-25 10:23:31] Chatbot: As a large language model, I don't experience feelings or emotions like humans do. So, I don't "feel" in the way you might be asking. 
+
+However, I'm functioning as intended and ready to answer your questions and assist you. So, in that sense, I'm doing well!
+
+How are you doing today?
+
